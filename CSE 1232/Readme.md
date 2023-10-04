@@ -2,7 +2,7 @@
 
 <br>This is a folder consisted of the C codes I have performed for my course work.
 <br>Course Code: CSE 1232
-<br>Course Title: Computer Programming
+<br>Course Title: Sessional on Computer Programming
 <br>Year: 1st year  Term: 2nd
 <br>Academic Session: 2018-2019
 <br>Year: 2019
